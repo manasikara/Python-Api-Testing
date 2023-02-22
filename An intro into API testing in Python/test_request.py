@@ -3,7 +3,7 @@
 
 import requests
 
-def test_statu_code():
+def test_status_code():
     response = requests.get('https://jsonplaceholder.typicode.com/users/1')
     assert response.status_code == 200
     body = response.json()
