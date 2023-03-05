@@ -1,0 +1,11 @@
+Learning a Tunder Client API testing
+-------------------------------
+
+Weather map
+http://api.openweathermap.org   - credencials for manasikara
+https://openweathermap.org/api/geocoding-api - by city name
+https://youtu.be/o-YUD9qF-eQ
+
+Simple Books
+https://simple-books-api.glitch.me
+
