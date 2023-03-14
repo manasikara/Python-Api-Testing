@@ -2,12 +2,13 @@
 #API--> https://jsonplaceholder.typicode.com/posts
 
 import requests
+import pytest
 
 
 my_new_post = {
     'userID' : 1,
-    'title' : 'My new post title',
-    'body' : 'Content of my new post here'
+    'title' : 'Some content',
+    'body' : '123123123123123123123123'
 }
 
 def test_create_new_post():

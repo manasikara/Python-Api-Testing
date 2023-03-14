@@ -1,0 +1,14 @@
+get     -reads
+post    - create
+put     - update
+delete  - remove
+head    - The HTTP HEAD method lets you submit a request and receive a response with the response body omitted. The purpose of the HEAD method is to save bandwidth if you do not require the response data that is usually included in the body.
+options  - The HTTP OPTIONS method requests permitted communication options for a given URL or server. A client can specify a URL with this method, or an asterisk ( * ) to refer to the entire server.
+----------
+
+print methods:
+C:\Users\slawe\iCloudDrive\API_practice\Typicode_json_server\print_methods.png
+-------------
+
+yet more print methods:
+print(response.status_code, response.ok, response.reason)
