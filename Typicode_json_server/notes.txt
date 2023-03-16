@@ -1,3 +1,6 @@
+https://github.com/typicode/json-server
+
+
 get     -reads
 post    - create
 put     - update

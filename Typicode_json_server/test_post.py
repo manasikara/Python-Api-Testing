@@ -1,4 +1,4 @@
-# send a 'POST' request with a new user to the server db.json file
+# Send a 'POST' request with a new user to the server db.json file
 
 import json
 import requests
