@@ -1,4 +1,4 @@
-Learning a Tunder Client API testing
+Learning a Thunder Client API testing
 -------------------------------
 
 Weather map
